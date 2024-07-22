@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "f147",
+      "username": "kevin",
+      "password": "lyanna"
+    }
+  ],
+  "guides": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "destination": "Paris",
+      "language": "English",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "destination": "Rome",
+      "language": "Italian",
+      "rating": 4.7
+    }
+  ]
+}
